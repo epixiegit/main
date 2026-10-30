@@ -1,0 +1,10 @@
+메모가능?
+git clone https://github.com/DietrichGebert/ponytail.git
+git clone https://github.com/multica-ai/andrej-karpathy-skills.git
+세션간 소통가능?
+인터넷가능?
+환경어떤지?
+python --version
+git --version
+codex --version
+  python3 --version
