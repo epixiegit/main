@@ -8,3 +8,4 @@ python --version
 git --version
 codex --version
   python3 --version
+git clone https://github.com/epixiegit/main.git
